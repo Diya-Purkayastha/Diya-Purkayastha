@@ -13,26 +13,15 @@ Currently pursuing a **B.Sc. in Computer Science & Engineering**, I love creatin
 
 ## 🚀 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-C-lightgray?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=c%2B%2B" />
-  <br/>
-  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Backend-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Auth-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+| Category         | Technologies |
+|------------------|--------------|
+| **Languages**    | ![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/Code-C-lightgray?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=c%2B%2B) |
+| **Frontend**     | ![Tailwind CSS](https://img.shields.io/badge/Frontend-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Backend**      | ![Express.js](https://img.shields.io/badge/Backend-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Database**     | ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Deployment**   | ![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **Authentication** | ![Firebase](https://img.shields.io/badge/Auth-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
+| **Tools**        | ![Git](https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/Tools-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
