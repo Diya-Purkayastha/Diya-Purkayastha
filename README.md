@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Debopriya Das Purkayastha Banner" />
+  <img src="banner.png" alt="Debopriya Das Purkayastha Banner" width="100%" />
 </p>
 
 ---
