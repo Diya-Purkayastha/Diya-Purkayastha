@@ -39,7 +39,8 @@ Currently pursuing a **B.Sc. in Computer Science & Engineering**, I love creatin
 
 ## 📬 Contact
 
-- 📧 Email: **diyapurkayastha@gmail.com**  
+- 📧 Email: **diyapurkayastha@gmail.com**
+- 🐦 Twitter: https://x.com/diyapurkaystha
 - 💼 Open to: Collaboration, Projects, and Learning Opportunities
 
 ---
