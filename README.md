@@ -1,9 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Debopriya Das Purkayastha</h1>
-
 <p align="center">
-  🎓 Pursuing B.Sc. in Computer Science & Engineering (CSE)  
-  <br />
-  💻 Passionate Web Developer | Tech Enthusiast | Continuous Learner
+  <img src="banner.png" alt="Debopriya Das Purkayastha Banner" />
 </p>
 
 ---
