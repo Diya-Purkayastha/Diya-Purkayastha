@@ -8,24 +8,35 @@
 
 ---
 
-## 🧕 About Me
+## About Me
 
-I'm a dedicated and enthusiastic web developer currently completing my  B.Sc. in Computer Science & Engineering. I enjoy building full-stack web applications and solving real-world problems through code.  
-I focus on clean design, performance, and accessibility — whether it's frontend styling or backend logic. When I'm not coding, I enjoy exploring new technologies and contributing to open-source.
+Hi there 👋, I'm **Debopriya Das Purkayastha**, a passionate and professional Web Developer with a solid foundation in full-stack development.  
+Currently pursuing a **B.Sc. in Computer Science & Engineering**, I love creating clean, functional, and user-centered web applications. When I'm not coding, I enjoy exploring new technologies and contributing to open-source.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack & Tools
 
-| Category             | Technologies                                                                 |
-|----------------------|------------------------------------------------------------------------------|
-| **Languages**         | `HTML` `CSS` `JavaScript` `C` `C++`                                          |
-| **Frontend**          | `Tailwind CSS` `React.js`                                                    |
-| **Backend**           | `Express.js`                                                                 |
-| **Database**          | `MongoDB`                                                                    |
-| **Deployment**        | `Netlify` `Vercel`                                                           |
-| **Authentication**    | `Firebase`                                                                   |
-| **Tools & Platforms** | `Git` `GitHub` `VS Code`                                                     |
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-C-lightgray?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=c%2B%2B" />
+  <br/>
+  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/Backend-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Deploy-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Auth-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
